@@ -1,0 +1,26 @@
+{
+  "name": "quizzly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "body-parser": "^1.19.1",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "formidable": "^2.0.1",
+    "heroku": "^7.59.2",
+    "https": "^1.0.0",
+    "mongoose": "^6.1.10",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
